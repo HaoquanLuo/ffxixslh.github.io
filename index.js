@@ -8,3 +8,5 @@ function initialize() {
 }
 
 initialize()
+
+export {}
